@@ -1,0 +1,38 @@
+{
+  "premium": {
+  },
+  "owner": [
+  ],
+  "groups": [
+  ],
+  "users": [
+  ],
+  "blacklist": [
+  ],
+  "settings": {
+    "maintenance": false,
+    "cooldown": {
+      "default": 6
+    }
+  },
+  "cooldowns": {
+    "share": {
+    },
+    "broadcast": {
+    },
+    "sharemsg2": {
+    },
+    "sharemsg": {
+    },
+    "sharemsg3": {
+    },
+    "broadcast3": {
+    },
+    "broadcast2": {
+    }
+  },
+  "user_group_count": {
+  },
+  "ceo": [
+  ]
+}
